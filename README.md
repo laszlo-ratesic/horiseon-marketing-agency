@@ -24,9 +24,9 @@ This code is strictly for use with Horiseon marketing agency and is only provide
    ![Mockup of Horiseon marketing agency landing page.](./assets/images/mockup-screenshot.png)
 
 ## Credits
-UT Austin Coding Boot Camp https://github.com/coding-boot-camp/urban-octo-telegram
+UT Austin Coding Boot Camp https://techbootcamps.utexas.edu/coding/
 
-Horiseon Marketing Agency https://github.com/coding-boot-camp/urban-octo-telegram
+Horiseon Marketing Agency https://laszlo-ratesic.github.io/horiseon-marketing-agency/
 
 ## License
 MIT License
